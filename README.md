@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and cybersecurity
 - 🌱 I’m currently doing my Masters in Cyber Security
 - 💞️ I’m looking to collaborate on any coding based work, C/C++/Phython/Shell Script.
-- 📫 How to reach me you can email me 
+- 📫 You can reach me through my email shyleshs1@gmail.com
 
 <!---
 ShyleshSreekumar/ShyleshSreekumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
